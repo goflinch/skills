@@ -1,0 +1,9 @@
+{
+  "name": "flinch",
+  "version": "1.0.0",
+  "description": "Teach your coding agent to build with Flinch: typed decisions, confidence gates, guard, mask and routing.",
+  "author": { "name": "goflinch", "email": "git@goflinch.com" },
+  "homepage": "https://goflinch.com/docs/agent-skill",
+  "repository": "https://github.com/goflinch/skills",
+  "keywords": ["flinch", "decisions", "classification", "routing", "guardrails", "system-zero"]
+}

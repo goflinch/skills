@@ -1,0 +1,13 @@
+{
+  "name": "goflinch",
+  "owner": { "name": "goflinch", "email": "git@goflinch.com" },
+  "metadata": { "description": "Skills for building with Flinch, frontier decision models on your silicon." },
+  "plugins": [
+    {
+      "name": "flinch",
+      "source": "./",
+      "description": "Teach your coding agent to build with Flinch: typed decisions, confidence gates, guard, mask and routing.",
+      "homepage": "https://goflinch.com/docs/agent-skill"
+    }
+  ]
+}
